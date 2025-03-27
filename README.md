@@ -21,4 +21,4 @@ Comments:
  
 - The core-part of the code (target-selection, galactic plot) is from nplatocam.py at https://github.com/PLATO-DLR/plato_utilities, written by Pierre Maxted. The fits file nplatocamLOPS2_2.fits.gz is based on nplatocamLOPS2.fits.gz in the same repository. This is a non-public site, for access contact Juan Cabrera at DLR (Juan.Cabrera@dlr.de).
 
-- The notebook was developped with: python 3.12.2, astropy 7.0.0, scipy 1.13.0, numpy 1.26.4 
+- The notebook was developed with: python 3.12.2, astropy 7.0.0, scipy 1.13.0, numpy 1.26.4 
