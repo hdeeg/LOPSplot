@@ -1,10 +1,10 @@
 # LOPSplot
 (this is a private branch from https://github.com/PLATO-DLR/plato_utilities/tree/main/src/plato_utilities/LOPSplot )
 
-Simple plotter for targets in PLATO fields: 
+Simple target-selector and plotter for targets in PLATO fields: 
 - From an input list, selects targets within the PLATO LOPS2 field 
 - Plots the targets in LOPS2, in galactic and equatorial coordinates
-- Saves the list of targets within LOPS2
+- Saves the list of targets within LOPS2, with an indication of the number of cameras observing the targets
 
 Besides the notebook, provided are a fits.gz file with the description of LOPS2 in terms of the number of cameras (6,12,18 or 24), and an example input-list (RV standards from Soubiran+2013, downloaded from Vizier).
  
